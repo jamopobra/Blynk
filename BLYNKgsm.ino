@@ -1,8 +1,8 @@
 /*  V0  BATERIA - V1  TERMINAL - V2  POSICION - V3  SENSORES - V4  RELES  */
 /* Completa a información de [Blynk Device Info] aquí */
-#define BLYNK_TEMPLATE_ID "TMPL5GUHwmTLs"
-#define BLYNK_TEMPLATE_NAME "barco"
-#define BLYNK_AUTH_TOKEN "juLZfw0JuehhviNgeYnordYj1PQMoZpL"
+#define BLYNK_TEMPLATE_ID "TMPLxxxxxxxxx"
+#define BLYNK_TEMPLATE_NAME "nome"
+#define BLYNK_AUTH_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 #define TINY_GSM_MODEM_SIM808
 
 #include <TinyGsmClient.h>       //https://github.com/vshymanskyy/TinyGSM
